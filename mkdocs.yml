@@ -1,0 +1,16 @@
+site_name: Dissertation Journal
+
+nav:
+  - Home: index.md
+
+  - Minutes of Meetings:
+      - 26 June 2024: minutes/2024-06-26.md
+
+  - Daily Logs:
+      - 26 June 2024: daily-logs/2024-06-26.md
+
+  - Insights:
+      - CAV Notes: insights/cav-notes.md
+
+  - Experiments:
+      - Baseline vs Edits: experiments/baseline-vs-edits.md
